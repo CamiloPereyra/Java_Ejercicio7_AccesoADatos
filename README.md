@@ -1,4 +1,4 @@
-#Java_Ejercicio7_AccesoADato
+#Java_Ejercicio7_AccesoADatos
 
 Ejercicio 7 con roles, personas, abm.
 Camilo Pereyra 
